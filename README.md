@@ -102,7 +102,7 @@ ENTRYPOINT ["/usr/sbin/httpd", "-D", "FOREGROUND"]
 1. Clone the repository.
 2. Build the Docker image using the provided Dockerfile.
    ```bash
-   docker build -t your-image-name .
+   docker build -t jupiter .
    ```
 3. Push the Docker image to Docker Hub or Amazon ECR.
 4. Deploy the application using the AWS resources created.
