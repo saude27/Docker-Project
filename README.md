@@ -1,3 +1,5 @@
+![Alt text](/jupiter-ref-arc.png)
+
 ![Alt text](/jupiter-ref-ach.png)
 
 
