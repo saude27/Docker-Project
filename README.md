@@ -1,3 +1,5 @@
+![Alt text](/static web app on docker.png)
+
 
 # Dockerized Static Web App with AWS Deployment
 
